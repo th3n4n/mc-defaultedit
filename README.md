@@ -1,12 +1,12 @@
 # not available
 Basically a "default edit" resource pack for Minecraft.
 
-This resource pack contains newly-since-1.14 default textures from Mojang and were backported to work with Minecraft version 1.7-1.8.9. It is similar to the TheLegend27 pack but with a few touches from me. The resource pack is WIP and will be updated with time. Soon I will provide some details here about what textures I added additionally & edited.
+This resource pack contains newly-since-1.14 default textures from Mojang and were backported to work with Minecraft version 1.7-1.8.9. It is similar to the TheLegend27 pack but with a few touches from me. The resource pack is WIP and will be updated with time. Soon I will provide some details here about what textures I added in additionally & edited.
 ## As of now, all of the texture files haven't been uploaded onto GitHub yet so please give me some time to finalize everything.
-# Why did you create a GitHub repo just to maintain a resource pack?
+# Why did you create a GitHub repo just to maintain a Minecraft resource pack?
 Well, excuse me because this idea popped into my head. And here it is. 😭
 
-Normally every other people would just edit their resource pack, store it on their computer then if they want, upload it to a cloud service. But, the fact with GitHub repos is that they both aren't limited to only code and not storage-limited. So that's a benefit and the main reason why I wanted to maintain my resource pack with a GitHub repository. Plus, you can see what changes I did to the pack through commit history as well.
+Normally every other people would just edit their resource pack, store it on their computer then upload it to a cloud service. But, the fact with GitHub repos is that they both aren't limited to only code and not storage-limited. So that's a benefit and the main reason why I wanted to maintain my resource pack with a GitHub repository. Plus, you can see what changes I did to the pack through commit history as well.
 # Special thanks to
 - [Mojang](https://mojang.com), for everything Minecraft
 - [TheLegend27 resource pack](http://www.mediafire.com/file/8l3nm7wcylbbylv/TheLegend27.zip/file) (menu textures and ender pearl texture)
