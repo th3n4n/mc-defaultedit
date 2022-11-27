@@ -6,6 +6,6 @@ This resource pack contains newly-since-1.14 default textures from Mojang and we
 Well, excuse me because this idea popped into my head. And I wanted to try doing it so here it is. 😭
 Normally other people would just edit their resource pack, store it on their computer then upload it to a cloud service. The fact with GitHub repos is that they aren't both limited to code and not storage-limited. So that's a benefit and the main reason why I wanted to maintain my resource pack with GitHub repos.
 # License
-While having a few textures that are edited by me, this resource pack contains Mojang's original textures so I am not able to license my repository. However, this is still my piece of work and I ask everyone to not *steal* my own edited textures. *That is all I ask for.*
+While having a few textures that are edited by me, this resource pack contains Mojang's original textures so I am not able to license my repository. However, this is still my piece of work and I ask everyone to not **steal** my own edited textures. **That is all I ask for.**
 
 
