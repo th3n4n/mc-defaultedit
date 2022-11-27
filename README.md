@@ -1,7 +1,7 @@
 # not available
 Basically a "default edit" resource pack for Minecraft. Yes, the pack name is *not available*.
 
-This resource pack contains newly-since-1.14 default textures from Mojang and were backported to work with Minecraft version 1.7-1.8.9. It is similar to the TheLegend27 pack but with a few touches from me. The resource pack is WIP and will be updated with time. Soon I will provide some details here about what textures I added in additionally & edited.
+This resource pack contains newly-since-1.14 default textures from Mojang and were backported to work with Minecraft version 1.7-1.8.9. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack is WIP and will be updated with time. Soon I will provide some details here about what textures I added in additionally & edited.
 ## As of now, all of the texture files haven't been uploaded onto GitHub yet so please give me some time to finalize everything.
 # Why did you create a GitHub repo just to maintain a Minecraft resource pack?
 Well, excuse me because this idea popped into my head. And here it is. 😭
