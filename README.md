@@ -20,6 +20,6 @@ Normally every other people would just edit their resource pack, store it on the
 - zulp, for [his clear glass overlay resource pack](https://resourcepacks24.de/resourcepack/466998)
 - Unphair, for [their lightmap overlay resource pack](https://www.mediafire.com/file/ry7t65ux8b6msd5/Unphairs+Lightmap.zip).
 # License
-Tthis resource pack/repository contains Mojang's original textures and various other's textures; therefore I am not able to license this repository.
+This resource pack/repository contains Mojang's original textures and various other's textures; therefore I am not able to license this repository.
 
 
