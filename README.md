@@ -13,7 +13,7 @@ This resource pack contains newly-since-1.14 default textures from Mojang and we
 # Why did you create a GitHub repo just to maintain a Minecraft resource pack?
 Well, excuse me because this idea popped into my head. And here it is. 😭
 
-Normally every other people would just edit their resource pack, store it on their computer then upload it to a cloud service. But, the fact with GitHub repos is that they both aren't limited to only code and not storage-limited. So that's a benefit and the main reason why I wanted to maintain my resource pack with a GitHub repository. Plus, you can see what changes I did to the pack/repository through commit history as well.
+Normally every other people would just edit their resource pack, store it on their computer then upload it to a cloud service. But, the fact about GitHub repos is that they both aren't limited to only code and not storage-limited. So that's a benefit and the main reason why I wanted to maintain my resource pack with a GitHub repository. Plus, you can see what changes I did to the pack/repository through commit history as well.
 # Credits
 - [Mojang](https://mojang.com), for everything Minecraft
 - [TheLegend27 resource pack](http://www.mediafire.com/file/8l3nm7wcylbbylv/TheLegend27.zip/file) (the **_main inspriration_** + menu textures)
