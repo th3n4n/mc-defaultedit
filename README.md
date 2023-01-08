@@ -9,7 +9,7 @@ This resource pack contains newly-since-1.14 default textures from Mojang and we
 # Download
 (1.7-1.8) Click the green Code button on the top right and then click Download ZIP (or just simply click [here](https://github.com/th3n4n/not-available/archive/refs/heads/main.zip)). Once you've finished downloading, unzip the file to your `.minecraft/resourcepack` folder. 
 
-(1.9+) Do the same steps for 1.8, then download the overlay pack that contains textures for 1.9+ [here](). Once downloaded, unzip the file to your `.minecraft/resourcepack` folder. Enter the game then apply the main pack first then the overlay pack.
+(1.9+) Do the same steps for 1.8, then download the overlay pack that contains textures for 1.9+ [here](https://github.com/th3n4n/not-available/archive/refs/heads/1.9+-overlay.zip). Once downloaded, unzip the file to your `.minecraft/resourcepack` folder. Enter the game then apply the main pack first then the overlay pack.
 # Why did you create a GitHub repo just to maintain a Minecraft resource pack?
 Well, excuse me because this idea popped into my head. And here it is. 😭
 
