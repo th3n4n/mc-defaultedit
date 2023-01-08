@@ -3,6 +3,7 @@
 Basically a "default edit" resource pack for Minecraft. 
 
 This resource pack contains newly-since-1.14 default textures from Mojang and were backported to work with Minecraft version 1.7+. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack is WIP and will be updated with time.
+*Textures backported from snapshot 22w46a*
 ## As of now, all of the texture files haven't been uploaded onto GitHub yet so please give me some time to finalize everything.
 # Download
 (1.7-1.8) Click the green Code button on the top right and then click Download ZIP (or just simply click [here](https://github.com/th3n4n/not-available/archive/refs/heads/main.zip)). Once you've finished downloading, un-zip the file to your `resourcepack` folder. 
