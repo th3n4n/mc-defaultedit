@@ -17,8 +17,6 @@ Normally every other people would just edit their resource pack, store it on the
 # Credits
 - [Mojang](https://mojang.com), for everything Minecraft
 - [TheLegend27 resource pack](http://www.mediafire.com/file/8l3nm7wcylbbylv/TheLegend27.zip/file) (the **_main inspriration_** + menu textures)
-- zulp, for [his clear glass overlay resource pack](https://resourcepacks24.de/resourcepack/466998)
-- Unphair, for [their lightmap overlay resource pack](https://www.mediafire.com/file/ry7t65ux8b6msd5/Unphairs+Lightmap.zip).
 # License
 This resource pack/repository contains Mojang's original textures and various other's textures; therefore I am not able to license this repository.
 
