@@ -4,7 +4,7 @@ Basically a "default edit" resource pack for Minecraft.
 
 This resource pack contains JAPPA's default textures from Mojang and backported to work with Minecraft version 1.8+. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack will *always* be updated with time.
 
-*Textures backported from snapshot 22w46a*
+*Textures backported from version 1.20.1*
 ## As of now, all of the texture files haven't been uploaded onto GitHub yet so please give me some time to finalize everything.
 # Download
 (1.8) Click the green Code button on the top right and then click Download ZIP (or just simply click [here](https://github.com/th3n4n/not-available/archive/refs/heads/main.zip)). Once you've finished downloading, unzip the file to your `.minecraft/resourcepack` folder. 
