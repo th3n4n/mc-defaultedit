@@ -2,7 +2,7 @@
 ### Yes, the pack name is *not available*.
 Basically a "default edit" resource pack for Minecraft. 
 
-This resource pack contains newly-since-1.14 default textures from Mojang and were backported to work with Minecraft version 1.8+. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack is WIP and will be updated with time.
+This resource pack contains JAPPA's default textures from Mojang and backported to work with Minecraft version 1.8+. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack will *always* be updated with time.
 
 *Textures backported from snapshot 22w46a*
 ## As of now, all of the texture files haven't been uploaded onto GitHub yet so please give me some time to finalize everything.
