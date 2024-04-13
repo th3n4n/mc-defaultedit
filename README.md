@@ -6,7 +6,7 @@ This resource pack contains *JAPPA's default textures from Mojang and backported
 
 **Textures backported from version/snapshots of 1.21*
 
-***improper support for lower versions*
+***Lower versions may have improper support*
 # Download
 (1.8) Click the green Code button on the top right and then click Download ZIP (or just simply click [here](https://github.com/th3n4n/not-available/archive/refs/heads/main.zip)). Once you've finished downloading, unzip the file to your `.minecraft/resourcepack` folder. 
 
