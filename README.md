@@ -1,11 +1,11 @@
 # not available
 ## As of now the repository is still being finalized.
-### Yes, the pack name is *not available*.
-Basically a "default edit" resource pack for Minecraft. 
+A "default edit" Minecraft resource pack. 
 
-This resource pack contains JAPPA's default textures from Mojang and backported to work with Minecraft version 1.8+. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack will *always* be updated with time.
+This resource pack contains *JAPPA's default textures from Mojang and backported to work with **Minecraft 1.8+. It is somewhat similar to the TheLegend27 pack but with a few touches from me. The resource pack will *always* be updated with time.
 
-*Textures backported from version/snapshots of 1.21*
+**Textures backported from version/snapshots of 1.21*
+***improper support for lower versions*
 # Download
 (1.8) Click the green Code button on the top right and then click Download ZIP (or just simply click [here](https://github.com/th3n4n/not-available/archive/refs/heads/main.zip)). Once you've finished downloading, unzip the file to your `.minecraft/resourcepack` folder. 
 
