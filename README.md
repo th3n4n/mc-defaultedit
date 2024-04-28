@@ -14,7 +14,10 @@ This resource pack contains *JAPPA's default textures from Mojang and backported
 
 **You can always compress the files to save storage space.**
 # Credits
-- [Mojang](https://mojang.com), for everything Minecraft
-- [TheLegend27 resource pack](http://www.mediafire.com/file/8l3nm7wcylbbylv/TheLegend27.zip/file) (the **_main inspriration_** + menu textures)
+- [Mojang Studios](https://mojang.com)
+- [TheLegend27 resource pack](http://www.mediafire.com/file/8l3nm7wcylbbylv/TheLegend27.zip/file)
+- [Modernity](https://www.curseforge.com/minecraft/texture-packs/modernity)
+- [Vanilla Mending](https://www.curseforge.com/minecraft/texture-packs/vanilla-mending)
+- [Lively Default](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2091397-200-000-downloads-1-7-1-8-lively-default-greener)
 
 
