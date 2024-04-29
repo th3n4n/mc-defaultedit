@@ -10,7 +10,7 @@ This resource pack contains *JAPPA's default textures from Mojang and were backp
 # Download
 (1.8) Click the green Code button on the top right and click Download ZIP (or just simply click [here](https://github.com/badb33ch/not-available/archive/refs/heads/main.zip)). Once downloaded, unzip the file to your `.minecraft/resourcepack` folder. 
 
-(1.9+) Do the same steps for 1.8, then download the overlay pack that contains textures for 1.9+ [here](https://github.com/badb33ch/not-available/archive/refs/heads/1.9+-overlay.zip). Once downloaded, unzip the file to your `.minecraft/resourcepack` folder. Enter the game and apply the main pack first then the overlay pack.
+(1.9+) Do the same steps for 1.8, then download the overlay pack that contains textures for 1.9+ [here](https://github.com/badb33ch/not-available/archive/refs/heads/1.9+.zip). Once downloaded, unzip the file to your `.minecraft/resourcepack` folder. Enter the game and apply the main pack first then the overlay pack.
 
 **You can always compress the files to save storage space.**
 # Credits
